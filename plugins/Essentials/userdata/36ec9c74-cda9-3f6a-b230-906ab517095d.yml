@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.123.80.249
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730125646195
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730128579047
+  login: 1730127708832
+money: '0'
+last-account-name: LeMemePolice
+logoutlocation:
+  world: 6f0e854c-80b9-42d6-bdcc-722197712447
+  world-name: world
+  x: 3190.4088106314493
+  y: 64.0
+  z: 2338.1583071819864
+  yaw: -31.214111328125
+  pitch: 42.30013656616211
+lastlocation:
+  world: 4da1298c-9353-4b73-83ff-1150a5242a33
+  world-name: world_the_end
+  x: 283.93547110143334
+  y: 1.0
+  z: 0.0445974253736142
+  yaw: -62.54815673828125
+  pitch: 2.099963426589966

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.183.66.175
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730387777563
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730387801753
+  login: 1730383311443
+money: '0'
+last-account-name: RedHelioss
+logoutlocation:
+  world: 6f0e854c-80b9-42d6-bdcc-722197712447
+  world-name: world
+  x: 2355.38743334225
+  y: 43.0
+  z: -323.8275606377726
+  yaw: 21.2962646484375
+  pitch: 24.48242950439453
+homes:
+  home:
+    world: eb53be00-6b44-4413-9044-973ec3bc97d7
+    world-name: world_nether
+    x: 275.69999998807907
+    y: 115.0
+    z: -83.30000001192093
+    yaw: 6.820914268493652
+    pitch: 20.4166202545166
+lastlocation:
+  world: eb53be00-6b44-4413-9044-973ec3bc97d7
+  world-name: world_nether
+  x: 273.85232211023146
+  y: 115.0
+  z: -67.14747578691261
+  yaw: -152.946533203125
+  pitch: 13.701071739196777

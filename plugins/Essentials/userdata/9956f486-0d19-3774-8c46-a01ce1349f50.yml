@@ -1,0 +1,79 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.56.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730655323070
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730655512922
+  login: 1730652404114
+money: '0'
+last-account-name: BigMel
+lastlocation:
+  world: 6f0e854c-80b9-42d6-bdcc-722197712447
+  world-name: world
+  x: 3208.249759558102
+  y: 34.0
+  z: 2298.0668681505267
+  yaw: -31.727874755859375
+  pitch: 11.970133781433105
+logoutlocation:
+  world: 6f0e854c-80b9-42d6-bdcc-722197712447
+  world-name: world
+  x: 3219.5992190187017
+  y: 62.110764312744145
+  z: 191.41889267656651
+  yaw: -44.643341064453125
+  pitch: 9.9141845703125
+homes:
+  bigmel:
+    world: 6f0e854c-80b9-42d6-bdcc-722197712447
+    world-name: world
+    x: 3199.7095828532147
+    y: 30.0
+    z: 2315.4783249755133
+    yaw: 149.25038146972656
+    pitch: 43.95066452026367
+  discord:
+    world: 6f0e854c-80b9-42d6-bdcc-722197712447
+    world-name: world
+    x: 3195.9706276210186
+    y: 89.0
+    z: 2348.5926832479113
+    yaw: 125.85372161865234
+    pitch: 8.99998950958252
+  home:
+    world: 6f0e854c-80b9-42d6-bdcc-722197712447
+    world-name: world
+    x: 3205.674234895495
+    y: 32.0
+    z: 2310.0918203027745
+    yaw: 4.617767333984375
+    pitch: 12.449965476989746
+  dic:
+    world: 6f0e854c-80b9-42d6-bdcc-722197712447
+    world-name: world
+    x: 3198.6524799376225
+    y: 93.0
+    z: 2347.7763972900775
+    yaw: -99.29608154296875
+    pitch: 20.999961853027344
+  sachi:
+    world: 6f0e854c-80b9-42d6-bdcc-722197712447
+    world-name: world
+    x: 3220.2391954410036
+    y: 63.0
+    z: 2281.209202367064
+    yaw: -81.00052642822266
+    pitch: 8.25080394744873

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730030513119
+  login: 1730028591155
+money: '0'
+last-account-name: MasterBoss912
+lastlocation:
+  world: 6f0e854c-80b9-42d6-bdcc-722197712447
+  world-name: world
+  x: 3199.30001
+  y: 48.0
+  z: 2318.975
+  yaw: -142.32791137695312
+  pitch: 43.671783447265625
+logoutlocation:
+  world: 6f0e854c-80b9-42d6-bdcc-722197712447
+  world-name: world
+  x: 3228.3228
+  y: 56.0
+  z: 2287.176
+  yaw: 70.40664672851562
+  pitch: -64.80533599853516

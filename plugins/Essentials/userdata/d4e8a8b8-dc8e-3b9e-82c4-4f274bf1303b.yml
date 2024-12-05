@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.91.186.101
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730039948320
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730041006713
+  login: 1730035074307
+money: '0'
+last-account-name: ApoLloza0
+lastlocation:
+  world: 6f0e854c-80b9-42d6-bdcc-722197712447
+  world-name: world
+  x: 2285.043058561895
+  y: 93.00133597911214
+  z: 2264.4982007815433
+  yaw: -86.73538208007812
+  pitch: 15.957736015319824
+logoutlocation:
+  world: 6f0e854c-80b9-42d6-bdcc-722197712447
+  world-name: world
+  x: 3198.66654015593
+  y: 89.0
+  z: 2353.0105923980464
+  yaw: -107.27197265625
+  pitch: 13.345013618469238
+homes:
+  home:
+    world: 6f0e854c-80b9-42d6-bdcc-722197712447
+    world-name: world
+    x: 219.69999998807907
+    y: 64.0
+    z: 243.40004085907455
+    yaw: -32.33367919921875
+    pitch: 11.934859275817871

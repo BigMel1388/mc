@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.242.150.197
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730654524344
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730655741484
+  login: 1730649315142
+money: '0'
+last-account-name: Flashaxes
+lastlocation:
+  world: 6f0e854c-80b9-42d6-bdcc-722197712447
+  world-name: world
+  x: 1779.2182820285857
+  y: -50.0
+  z: 2357.694195131354
+  yaw: 84.720458984375
+  pitch: 5.778697490692139
+logoutlocation:
+  world: 6f0e854c-80b9-42d6-bdcc-722197712447
+  world-name: world
+  x: 1392.622486099423
+  y: 66.0
+  z: 2164.789062810021
+  yaw: -130.17221069335938
+  pitch: 38.88896560668945
+homes:
+  home:
+    world: 6f0e854c-80b9-42d6-bdcc-722197712447
+    world-name: world
+    x: 1392.7012874658071
+    y: 81.0
+    z: 2203.9078071327926
+    yaw: -169.39093017578125
+    pitch: 9.793148040771484

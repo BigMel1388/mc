@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.175.64.82
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730558532653
+  login: 1730557533050
+money: '0'
+last-account-name: SemelatiFofali
+logoutlocation:
+  world: eb53be00-6b44-4413-9044-973ec3bc97d7
+  world-name: world_nether
+  x: -7.302194146396754
+  y: 71.0
+  z: -27.746252218633902
+  yaw: -125.99873352050781
+  pitch: -69.00001525878906

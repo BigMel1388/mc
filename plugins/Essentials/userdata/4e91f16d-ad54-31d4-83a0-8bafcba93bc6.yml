@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.42.23.240
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730130516702
+  login: 1730124204348
+money: '0'
+last-account-name: Yufandy
+lastlocation:
+  world: eb53be00-6b44-4413-9044-973ec3bc97d7
+  world-name: world_nether
+  x: 317.25661205029616
+  y: 33.0
+  z: -716.8229716143317
+  yaw: -149.365478515625
+  pitch: 33.377044677734375
+logoutlocation:
+  world: 6f0e854c-80b9-42d6-bdcc-722197712447
+  world-name: world
+  x: 5768.472729584977
+  y: -53.0
+  z: 116.6649418735973
+  yaw: 70.0809326171875
+  pitch: 16.014854431152344

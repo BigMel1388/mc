@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.49.179.2
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730040505318
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730040514722
+  login: 1730038568858
+money: '0'
+last-account-name: DoctorPio
+lastlocation:
+  world: 6f0e854c-80b9-42d6-bdcc-722197712447
+  world-name: world
+  x: 3205.4967494878388
+  y: 31.9375
+  z: 2311.243821002381
+  yaw: -176.17684936523438
+  pitch: 21.3002986907959
+homes:
+  home:
+    world: 6f0e854c-80b9-42d6-bdcc-722197712447
+    world-name: world
+    x: 3219.303207230121
+    y: 63.0
+    z: 2281.1598421349104
+    yaw: 8.250014305114746
+    pitch: 24.000003814697266
+logoutlocation:
+  world: 6f0e854c-80b9-42d6-bdcc-722197712447
+  world-name: world
+  x: 3219.5
+  y: 63.0
+  z: 2281.5
+  yaw: -102.89997100830078
+  pitch: 8.400002479553223

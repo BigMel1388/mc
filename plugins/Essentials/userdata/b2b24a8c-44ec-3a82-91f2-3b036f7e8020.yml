@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.66.104.73
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1729526645004
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729526649254
+  login: 1729522267501
+money: '0'
+last-account-name: foxcraft
+lastlocation:
+  world: 6f0e854c-80b9-42d6-bdcc-722197712447
+  world-name: world
+  x: 3243.406813199071
+  y: 81.0
+  z: 2302.073067661842
+  yaw: -4.299461841583252
+  pitch: 29.33687973022461
+homes:
+  home:
+    world: 6f0e854c-80b9-42d6-bdcc-722197712447
+    world-name: world
+    x: 3194.7195185781316
+    y: 89.0
+    z: 2347.272731707853
+    yaw: -84.2950439453125
+    pitch: 8.381985664367676
+logoutlocation:
+  world: 6f0e854c-80b9-42d6-bdcc-722197712447
+  world-name: world
+  x: 3193.392220377192
+  y: 89.0
+  z: 2347.479864230872
+  yaw: 150.02772521972656
+  pitch: 25.774580001831055

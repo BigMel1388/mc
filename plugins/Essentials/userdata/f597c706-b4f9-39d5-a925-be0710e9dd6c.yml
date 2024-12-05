@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.47.214.53
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730039016019
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730558062302
+  login: 1730557220458
+money: '0'
+last-account-name: DoctorYett
+logoutlocation:
+  world: 6f0e854c-80b9-42d6-bdcc-722197712447
+  world-name: world
+  x: 3707.209580519331
+  y: 64.0
+  z: 2421.3022009037345
+  yaw: 62.570831298828125
+  pitch: 23.549945831298828
+lastlocation:
+  world: 6f0e854c-80b9-42d6-bdcc-722197712447
+  world-name: world
+  x: 53.36020265108232
+  y: 70.0
+  z: 77.80333251854128
+  yaw: -80.38446044921875
+  pitch: 8.099958419799805
+homes:
+  home:
+    world: 6f0e854c-80b9-42d6-bdcc-722197712447
+    world-name: world
+    x: 3217.5
+    y: 63.0
+    z: 2281.5
+    yaw: 57.450008392333984
+    pitch: 12.450000762939453

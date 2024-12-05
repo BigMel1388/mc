@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.197.16.136
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730039213140
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730040078117
+  login: 1730035592359
+money: '0'
+last-account-name: EUPHXXRIA
+logoutlocation:
+  world: 6f0e854c-80b9-42d6-bdcc-722197712447
+  world-name: world
+  x: 3194.841469504755
+  y: 89.0
+  z: 2347.1264346124603
+  yaw: -60.5992431640625
+  pitch: 13.950019836425781
+lastlocation:
+  world: 6f0e854c-80b9-42d6-bdcc-722197712447
+  world-name: world
+  x: 3051.317818822994
+  y: 68.0
+  z: 2365.9154739213554
+  yaw: -175.8001708984375
+  pitch: 35.70000457763672
+homes:
+  home:
+    world: 6f0e854c-80b9-42d6-bdcc-722197712447
+    world-name: world
+    x: 3222.507941711926
+    y: 63.0
+    z: 2282.699999988079
+    yaw: -179.699951171875
+    pitch: 12.899998664855957

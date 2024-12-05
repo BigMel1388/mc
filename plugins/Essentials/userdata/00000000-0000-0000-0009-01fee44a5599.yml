@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730020865330
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730020888969
+  login: 1730020810108
+money: '0'
+last-account-name: .AnugrahJB021338
+logoutlocation:
+  world: 6f0e854c-80b9-42d6-bdcc-722197712447
+  world-name: world
+  x: 3202.4065
+  y: 89.0
+  z: 2348.9746
+  yaw: -88.22249603271484
+  pitch: -0.6930694580078125
+lastlocation:
+  world: 6f0e854c-80b9-42d6-bdcc-722197712447
+  world-name: world
+  x: 3207.5513
+  y: 37.0
+  z: 2312.1184
+  yaw: 2.7426300048828125
+  pitch: 13.334732055664062
+homes:
+  bigmel:
+    world: 6f0e854c-80b9-42d6-bdcc-722197712447
+    world-name: world
+    x: 3193.538
+    y: 89.0
+    z: 2347.9668
+    yaw: -105.07415771484375
+    pitch: -1.5213470458984375
